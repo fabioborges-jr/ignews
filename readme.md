@@ -1,0 +1,1 @@
+Este repositório possui a finalidade de treinar minhas habilidades em next.js
