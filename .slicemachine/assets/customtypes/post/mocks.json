@@ -1,0 +1,21 @@
+{
+  "id": "db813355-0ab6-411e-aa60-c6cd947d54e4",
+  "uid": "sapiente-totam-aut",
+  "type": "post",
+  "data": {
+    "Title": [
+      {
+        "type": "heading1",
+        "text": "Engage best-of-breed web-readiness",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Commodo aliquip eu eiusmod do labore cupidatat cillum mollit ad.",
+        "spans": []
+      }
+    ]
+  }
+}
